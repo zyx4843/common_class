@@ -1,3 +1,3 @@
 # common_class
 
-dstring 宽字符串类
+dstring(./src/dstring.h) 宽字符串类
