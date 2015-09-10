@@ -1,12 +1,14 @@
+/***********************************************************************
+** Author       : zheng yi xiong 
+** Date         : 2014-08-13
+** Name         : dstring.h
+** Description  :
+** Modify Record:
+***********************************************************************/
+
 #include "dstring.h"
-#include "stdarg.h"
+#include <stdarg.h>
 #include <assert.h>
-#ifdef __DEBUG_NEW__
-#include "debug_new.h"
-#define new DEBUG_NEW
-#endif
-
-
 
 ///////////////////////////////////////////////////////
 // * ctype.h ±ê×¼¿âº¯Êý
